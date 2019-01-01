@@ -3,3 +3,4 @@
 👀In encapsulation the variables of a class will be hidden from other classes.
 👀 it can be accessed only through the method of their current class.
 👀 It is know as Data Hiding.
+👀 writing data and code into a single unit.
